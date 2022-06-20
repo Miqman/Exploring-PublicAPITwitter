@@ -17,7 +17,8 @@ class Controller {
         data: JSON.parse(JSON.stringify(data.data)),
       });
     } catch (error) {
-      console.log(error);
+      next(error);
+      //   console.log(error);
     }
   }
 
@@ -39,7 +40,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error.data);
+      //   console.log(error.data);
     }
   }
 
@@ -66,7 +67,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 
@@ -86,7 +87,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 
@@ -106,7 +107,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 
@@ -128,7 +129,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 
@@ -150,7 +151,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 
@@ -170,7 +171,7 @@ class Controller {
       });
     } catch (error) {
       next(error);
-      console.log(error);
+      //   console.log(error);
     }
   }
 }

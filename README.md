@@ -1,10 +1,12 @@
 # Exploring-PublicAPITwitter
 
-# food API Documentation
+# tweet elon musk API Documentation
+
+### endpoint deploy https://elon-musk-tweet-api.herokuapp.com/
 
 List of available endpoints:
 
-- `GET /
+- `GET /`
 - `GET /multiple?ids=`
 - `GET /follower`
 - `GET /following`
