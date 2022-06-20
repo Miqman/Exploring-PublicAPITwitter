@@ -15,12 +15,6 @@ function errorHandler(err, req, res, next) {
         message: err.name,
       });
       break;
-    case "Forbiden":
-      res.status(403).json({
-        statusCode: 403,
-        message: err.name,
-      });
-      break;
     default:
       // console.log(err);
       res.status(500).json({
